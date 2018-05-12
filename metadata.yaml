@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33837'
     url: http://www.gutenberg.org/2009/agents/33837
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29313#War-from-the-InsideThe-Story-of-the-132nd-Regiment-Pennsylvania-Volunteer-Infantry-in-the-War_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2009-07-04'
 gutenberg_type: Text
