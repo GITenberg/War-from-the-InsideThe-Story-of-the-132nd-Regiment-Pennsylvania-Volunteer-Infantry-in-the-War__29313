@@ -1,0 +1,36 @@
+_repo: War-from-the-InsideThe-Story-of-the-132nd-Regiment-Pennsylvania-Volunteer-Infantry-in-the-War__29313
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hitchcock, Frederick L. (Frederick Lyman)
+    gutenberg_agent_id: '33837'
+    url: http://www.gutenberg.org/2009/agents/33837
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2009-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29313'
+  lccn: '04026221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Pennsylvania Infantry Regiment, 132nd (1862-1863) --
+  Biography'
+- !lcsh 'Pennsylvania -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'Pennsylvania -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'Hitchcock, Frederick L. (Frederick Lyman)'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'Soldiers -- Pennsylvania -- Biography'
+title: 'War from the Inside
+
+  The Story of the 132nd Regiment Pennsylvania Volunteer Infantry in the War for the
+  Suppression of the Rebellion, 1862-1863'
+url: http://www.gutenberg.org/ebooks/29313
